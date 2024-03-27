@@ -1,4 +1,3 @@
-# Program tested on linux environment
 import platform
 from colorama import Fore,Back,Style
 import os
